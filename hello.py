@@ -5,3 +5,5 @@ def add(x, y):
 
 
 print(add(1, 1))
+print(add(2,-4))
+
